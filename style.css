@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+#quote {
+  /* border: 2px red solid; */
+  margin-top: 15px;
+  width: 350px;
+  height: 100px;
+  font-weight: bold;
+}
